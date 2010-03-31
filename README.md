@@ -6,7 +6,7 @@ Install this keyboard layout to restore the missing *thal* and *shadda*.
 
 ## Installation
 
-1. Copy both `Arabic-good.keylayout` and `Arabic-good.icns` to `/Library/Keyboard Layouts` or `~/Library/Keyboard Layouts`
+1. Copy both `Arabic-PC-fixed.keylayout` and `Arabic-PC-fixed.icns` to `/Library/Keyboard Layouts` or `~/Library/Keyboard Layouts`
 2. Go to System Preferences > Language & Text > Input Sources.
 3. At the bottom of the list of keyboard layouts you should see one titled "العربي".
 4. Select it and type away!
