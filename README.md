@@ -1,6 +1,6 @@
 # Fixed Arabic - PC keyboard layout for OS X
 
-For some reason, the "Arabic - PC" keyboard layout in Mac OS X 10.4 and above is missing the letter *thal* (ذ) and the diacritic *shadda* ( ّ ). On standard Arabic PC keyboard layouts these are assigned to the tilde key to the left of the number 1, but for some unknown reason OS X replaced the key with a comma. 
+For some reason, the "Arabic - PC" keyboard layout in Mac OS X 10.4 and above is missing the letter *thal* ( ذ ) and the diacritic *shadda* ( ّ ). On standard Arabic PC keyboard layouts these are assigned to the tilde key to the left of the number 1, but OS X replaced the key with a comma. 
 
 Install this keyboard layout to restore the missing *thal* and *shadda*.
 
